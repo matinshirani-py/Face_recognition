@@ -10,8 +10,8 @@ Using facial recognition, this system can detect and recognize well-known figure
 
 - 🤖 Elon Musk  
 - ⚽ Cristiano Ronaldo  
-- 🐐 Lionel Messi (recognized as **The GOAT** 😎)  
-- 👤 Matin (the creator of this project)
+- 🐐 Lionel Messi (recognized as **The GOAT** )  
+- 👤 Matin (myself)
 
 Each time one of these individuals is detected, the system automatically logs their **entry time** into a CSV file.
 
@@ -51,7 +51,7 @@ This is one of the most practical use cases of the `face_recognition` library:
 
 ## 🐐 Fun Fact:
 
-Lionel Messi is recognized as **The GOAT** 🐐😎 — because of course he is.
+Lionel Messi is recognized as **The GOAT** 🐐 
 
 ---
 
