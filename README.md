@@ -69,7 +69,6 @@ Then run the script:
 python your_script_name.py
 ```
 
----
 
 ## 👤 Created By
 
@@ -77,3 +76,16 @@ This project was developed by [Matin](https://github.com/matinshirani-py).
 Feel free to star ⭐ the repo, fork 🍴 it, or send feedback!
 
 ---
+## 📸 Sample Results
+
+<p float="left">
+  <img src="results/photo_2025-07-08_11-57-17.jpg" width="200"/>
+  <img src="results/photo_2025-07-08_11-57-28.jpg" width="200"/>
+  <img src="results/photo_2025-07-08_11-57-36.jpg" width="200"/>
+</p>
+
+<p float="left">
+  <img src="results/photo_2025-07-08_11-57-41.jpg" width="200"/>
+  <img src="results/photo_2025-07-08_11-57-46.jpg" width="200"/>
+  <img src="results/photo_2025-07-08_11-58-01.jpg" width="200"/>
+</p>
